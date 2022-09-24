@@ -1,5 +1,3 @@
-from sqlite3 import Row
-from turtle import pos, width
 import pygame
 import math
 from queue import PriorityQueue
