@@ -1,4 +1,4 @@
-# Pathfinder
+# Pathfinding visualiser
 ### Shortest Pathfinding using A* Search Algorithm in Python3
 
 Created a shortest path finder by implementing an A* search algorithm while providing user with the visualization for a better understanding of the process.
